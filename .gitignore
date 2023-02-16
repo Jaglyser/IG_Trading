@@ -1,0 +1,6 @@
+__pycache__/
+trading_ig_config-py
+base.py
+main.py
+quantmethods.py
+testing.py
